@@ -1,0 +1,8 @@
+
+  .cross {
+    background-color: #ffffff;
+  }
+
+  .cross:hover{
+    background-color: red;
+  }
